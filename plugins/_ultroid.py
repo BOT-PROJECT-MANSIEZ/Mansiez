@@ -11,9 +11,9 @@ from telethon.errors import ChatSendInlineForbiddenError
 from . import *
 
 REPOMSG = (
-    "• **ULTROID USERBOT** •\n\n",
-    "• Repo - [Click Here](https://github.com/TeamUltroid/Ultroid)\n",
-    "• Support - @UltroidSupport",
+    "• **PETERCORD USERBOT** •\n\n",
+    "• Repo - [Click Here](https://github.com/ilham77mansiz/Petercord-Userbotilham/tree/Petercord-Userbotilham)\n",
+    "• Support - @petercord",
 )
 
 
