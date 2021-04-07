@@ -42,7 +42,7 @@ async def ult(ult):
                 except BaseException:
                     await eod(ult, get_string("help_1").format(plug), time=5)
         except BaseException:
-            await eor(ult, "Error 🤔 occured.")
+            await eor(ult, "Error 🏇 occured.")
     else:
         try:
             results = await ultroid_bot.inline_query(tgbot, "ultd")
